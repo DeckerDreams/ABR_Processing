@@ -6,4 +6,9 @@ https://www.frontiersin.org/articles/10.3389/fmed.2020.613708/full
 
 https://ihsys.info/site/en/exporting-raw-data-from-smartep/
 
-![fmed-07-613708-g001](https://user-images.githubusercontent.com/78172883/236643469-e09c7bed-014a-4338-8a77-ec2fd3fd848b.jpg)
+
+![1-s2 0-S0933365706001011-gr1](https://github.com/DeckerDreams/ABR_Processing/assets/78172883/bfde9343-4c19-439a-80bd-e7428c9bb4a6)
+https://www.sciencedirect.com/science/article/pii/S0933365706001011#fig1
+
+
+
